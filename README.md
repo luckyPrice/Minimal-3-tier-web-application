@@ -1,17 +1,3 @@
-# DevOps Directive Docker Course
-
-This is the companion repo to: [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://youtu.be/RqTEHSBrYFw)
-
-[![](./readme-assets/thumbnail.jpg)](https://youtu.be/RqTEHSBrYFw)
-
-## Sponsor
-
-[![](./readme-assets/shipyard-logo.png)](https://shipyard.build/)
-
-Thank you to [Shipyard](https://shipyard.build/) for sponsoring this course! It is because of their support that I am able to provide it to the community free of charge!
-
-Shipyard is the easiest way to generate on demand ephemeral environments (aka a new environment for every pull request). Sign up today at https://shipyard.social/DevOpsDirectivePromo! The first 300 people to use the promo code "DEVOPSDIRECTIVE" will receive an additional 30 days free on either their startup or business tier plans!
-
 ## [01 - History and Motivation](01-history-and-motivation/README.md)
 
 Examines the evolution of virtualization technologies from bare metal, virtual machines, and containers and the tradeoffs between them.
